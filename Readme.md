@@ -4,7 +4,7 @@
 I am a Software Engineer | Quant researcher in electronic financial markets | Applied Geophysicist
 and do have a wide range of interests, mainly surrounding computer science, programming, and mathematics, usually, but not limited to problems in finance.
 
-## 🛠️ Technologies and tools I use:
+## Tools and technologies that I use:
 
 <p align="left">
   <!-- Programming languages and tools -->
@@ -25,7 +25,6 @@ and do have a wide range of interests, mainly surrounding computer science, prog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
 </p>
-
 
 
 
