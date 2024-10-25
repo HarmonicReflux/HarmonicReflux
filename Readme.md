@@ -1,10 +1,10 @@
 [![An image of @harmonicreflux's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harmonicreflux)](https://holopin.io/@harmonicreflux)
 
-### Hello, I am @HarminicReflux. Offline, people tend to call me Ben. Welcome to my GitHub account!
+# Hello, I am @HarminicReflux. Offline, people tend to call me Ben. Welcome to my GitHub account!
 I am a Software Engineer | Quant researcher in electronic financial markets | Applied Geophysicist
 and do have a wide range of interests, mainly surrounding computer science, programming, and mathematics, usually, but not limited to problems in finance.
 
-## Tools and technologies that I use:
+# Tools and technologies that I use:
 
 <p align="left">
   <!-- Programming languages and tools -->
