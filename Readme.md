@@ -18,8 +18,8 @@ and do have a wide range of interests, mainly surrounding computer science, prog
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
 
   <!-- Tools and Technologies -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg" alt="Nvidia" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cuda/cuda-original.svg" alt="CUDA" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/NVIDIA_logo.svg" alt="Nvidia" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/CUDA_logo.svg" alt="CUDA" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" alt="CLion" width="60" height="60"/>
